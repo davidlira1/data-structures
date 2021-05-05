@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.galvanize.LinkedListTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-05-05T00:35:56" hostname="LAPTOP-A8GBKPQ8" time="0.056">
+  <properties/>
+  <testcase name="canAddObjectToTheEndOfList()" classname="com.galvanize.LinkedListTest" time="0.02"/>
+  <testcase name="ableToGetFirstItem()" classname="com.galvanize.LinkedListTest" time="0.001"/>
+  <testcase name="canDeleteTheNthObject()" classname="com.galvanize.LinkedListTest" time="0.023"/>
+  <testcase name="canDeleteObjectIfItExists()" classname="com.galvanize.LinkedListTest" time="0.001"/>
+  <testcase name="canInitializeNodeWithData()" classname="com.galvanize.LinkedListTest" time="0.001"/>
+  <testcase name="ableToGetLastItem()" classname="com.galvanize.LinkedListTest" time="0.001"/>
+  <testcase name="isLinkedListEmptyEmpty()" classname="com.galvanize.LinkedListTest" time="0.001"/>
+  <testcase name="getTheNthObjectInTheList()" classname="com.galvanize.LinkedListTest" time="0.001"/>
+  <testcase name="getTheNthObject_throwsIndexOutOfBoundsException()" classname="com.galvanize.LinkedListTest" time="0.002"/>
+  <testcase name="contains_returnsNegativeOneIfNotInThere()" classname="com.galvanize.LinkedListTest" time="0.001"/>
+  <testcase name="contains_returnsTheIndexOfTheObject()" classname="com.galvanize.LinkedListTest" time="0.001"/>
+  <system-out><![CDATA[LinkedList{head=Node{data=5, next=Node{data=8, next=Node{data=7, next=Node{data=9, next=null}}}}}
+LinkedList{head=Node{data=5, next=Node{data=8, next=Node{data=7, next=Node{data=9, next=null}}}}}
+LinkedList{head=Node{data=5, next=Node{data=8, next=Node{data=7, next=Node{data=9, next=null}}}}}
+LinkedList{head=Node{data=5, next=Node{data=8, next=Node{data=7, next=Node{data=9, next=null}}}}}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
