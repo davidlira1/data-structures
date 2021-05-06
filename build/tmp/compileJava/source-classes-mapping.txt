@@ -2,3 +2,7 @@ com/galvanize/Node.java
  com.galvanize.Node
 com/galvanize/LinkedList.java
  com.galvanize.LinkedList
+com/galvanize/Stack.java
+ com.galvanize.Stack
+com/galvanize/Queue.java
+ com.galvanize.Queue

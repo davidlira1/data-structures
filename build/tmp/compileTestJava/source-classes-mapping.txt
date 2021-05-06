@@ -1,2 +1,6 @@
 com/galvanize/LinkedListTest.java
  com.galvanize.LinkedListTest
+com/galvanize/QueueTest.java
+ com.galvanize.QueueTest
+com/galvanize/StackTest.java
+ com.galvanize.StackTest
