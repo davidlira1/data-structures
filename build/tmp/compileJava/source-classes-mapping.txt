@@ -6,3 +6,9 @@ com/galvanize/Stack.java
  com.galvanize.Stack
 com/galvanize/Queue.java
  com.galvanize.Queue
+com/galvanize/Quicksort.java
+ com.galvanize.Quicksort
+com/galvanize/MergeSort.java
+ com.galvanize.MergeSort
+com/galvanize/BubbleSort.java
+ com.galvanize.BubbleSort

@@ -4,3 +4,9 @@ com/galvanize/QueueTest.java
  com.galvanize.QueueTest
 com/galvanize/StackTest.java
  com.galvanize.StackTest
+com/galvanize/QuickSortTest.java
+ com.galvanize.QuickSortTest
+com/galvanize/MergeSortTest.java
+ com.galvanize.MergeSortTest
+com/galvanize/BubbleSortTest.java
+ com.galvanize.BubbleSortTest

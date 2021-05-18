@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.galvanize.BubbleSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-18T21:23:14" hostname="LAPTOP-A8GBKPQ8" time="0.023">
+  <properties/>
+  <testcase name="bubbleSort_arrayManyValues_sortsArray()" classname="com.galvanize.BubbleSortTest" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
